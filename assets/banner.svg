@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-labelledby="title desc">
+  <title id="title">Rennan Jackowski</title>
+  <desc id="desc">Estudante de Análise e Desenvolvimento de Sistemas. Front-end, JavaScript e automação com n8n. Curitiba, PR.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1020"/>
+      <stop offset="0.55" stop-color="#0e1a33"/>
+      <stop offset="1" stop-color="#151230"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#2f81f7" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#2f81f7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPurple" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#a371f7" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#a371f7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f0f6fc"/>
+      <stop offset="1" stop-color="#a5c8ff"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#c9d1d9"/>
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1200" height="340" rx="20"/>
+    </clipPath>
+    <style>
+      .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif; }
+      .mono { font-family: 'Cascadia Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-size: 15.5px; }
+      .kw { fill: #ff7b72; } .var { fill: #d2a8ff; } .prop { fill: #79c0ff; }
+      .str { fill: #a5d6ff; } .pun { fill: #c9d1d9; }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect x="600" width="600" height="340" fill="url(#dots)" opacity="0.07"/>
+    <circle cx="1010" cy="40" r="300" fill="url(#glowBlue)"/>
+    <circle cx="120" cy="360" r="260" fill="url(#glowPurple)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="339" rx="19.5" fill="none" stroke="#30363d"/>
+
+  <!-- Apresentação -->
+  <g class="sans">
+    <text x="64" y="92" font-size="14" font-weight="600" letter-spacing="4" fill="#58a6ff">OLÁ, EU SOU</text>
+    <text x="62" y="156" font-size="54" font-weight="700" fill="url(#name)">Rennan Jackowski</text>
+    <text x="64" y="200" font-size="21" fill="#c9d1d9">Estudante de Análise e Desenvolvimento de Sistemas</text>
+    <text x="64" y="232" font-size="17" fill="#8b949e">Front-end  ·  JavaScript  ·  Automação com n8n</text>
+
+    <g font-size="13" font-weight="600">
+      <rect x="64" y="260" width="114" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+      <text x="121" y="281" text-anchor="middle" fill="#c9d1d9">Curitiba, PR</text>
+
+      <rect x="188" y="260" width="180" height="32" rx="16" fill="#161b22" stroke="#30363d"/>
+      <text x="278" y="281" text-anchor="middle" fill="#c9d1d9">Universidade Positivo</text>
+
+      <rect x="378" y="260" width="200" height="32" rx="16" fill="#0f2a1a" stroke="#2ea043"/>
+      <circle cx="398" cy="276" r="4.5" fill="#3fb950"/>
+      <text x="488" y="281" text-anchor="middle" fill="#7ee787">Aberto a oportunidades</text>
+    </g>
+  </g>
+
+  <!-- Janela de código -->
+  <g>
+    <rect x="660" y="48" width="480" height="244" rx="14" fill="#0d1117" fill-opacity="0.92" stroke="#30363d"/>
+    <circle cx="686" cy="68" r="6" fill="#ff5f57"/>
+    <circle cx="706" cy="68" r="6" fill="#febc2e"/>
+    <circle cx="726" cy="68" r="6" fill="#28c840"/>
+    <text x="900" y="73" text-anchor="middle" class="mono" font-size="13" fill="#8b949e" style="font-size:13px">rennan.js</text>
+    <line x1="660" y1="88" x2="1140" y2="88" stroke="#21262d"/>
+
+    <text class="mono" xml:space="preserve">
+      <tspan x="688" y="122"><tspan class="kw">const</tspan><tspan class="var"> rennan</tspan><tspan class="pun"> = {</tspan></tspan>
+      <tspan x="688" y="148"><tspan class="prop">  curso</tspan><tspan class="pun">: </tspan><tspan class="str">"ADS · Universidade Positivo"</tspan><tspan class="pun">,</tspan></tspan>
+      <tspan x="688" y="174"><tspan class="prop">  foco</tspan><tspan class="pun">: [</tspan><tspan class="str">"front-end"</tspan><tspan class="pun">, </tspan><tspan class="str">"automação"</tspan><tspan class="pun">],</tspan></tspan>
+      <tspan x="688" y="200"><tspan class="prop">  estudando</tspan><tspan class="pun">: [</tspan><tspan class="str">"SQL"</tspan><tspan class="pun">, </tspan><tspan class="str">"C"</tspan><tspan class="pun">, </tspan><tspan class="str">"Git"</tspan><tspan class="pun">],</tspan></tspan>
+      <tspan x="688" y="226"><tspan class="prop">  buscando</tspan><tspan class="pun">: </tspan><tspan class="str">"estágio ou júnior"</tspan></tspan>
+      <tspan x="688" y="252"><tspan class="pun">};</tspan></tspan>
+    </text>
+    <rect class="cursor" x="710" y="238" width="9" height="18" rx="1.5" fill="#58a6ff"/>
+  </g>
+</svg>
