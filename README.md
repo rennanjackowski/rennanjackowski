@@ -16,7 +16,6 @@ Busco minha primeira oportunidade em **desenvolvimento de sistemas** (estágio o
 
 - Desenvolvo projetos web com **HTML, CSS e JavaScript**, publicados no GitHub Pages
 - Crio fluxos de automação com **n8n**, integrando WhatsApp, Google Sheets e e-mail
-- Uso IA no desenvolvimento, com **Claude Code** e engenharia de prompt
 - Estudando agora: **SQL (MySQL)**, **linguagem C** e **Git/GitHub**
 
 ## Tecnologias
@@ -24,7 +23,7 @@ Busco minha primeira oportunidade em **desenvolvimento de sistemas** (estágio o
 | Área | Ferramentas |
 | :-- | :-- |
 | **Desenvolvimento** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **Automação e IA** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) |
+| **Automação** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white) |
 | **Em estudo** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 | **Outras ferramentas** | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge) ![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=for-the-badge&logo=zendesk&logoColor=white) ![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autocad&logoColor=white) ![SolidWorks](https://img.shields.io/badge/SolidWorks-DA291C?style=for-the-badge) |
 
@@ -33,7 +32,7 @@ Busco minha primeira oportunidade em **desenvolvimento de sistemas** (estágio o
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://rennanjkw2019-coder.github.io/autocenter-veloz/"><img src="assets/autocenter-veloz.png" alt="Tela inicial do Veloz Track"></a>
+      <a href="https://rennanjackowski.github.io/autocenter-veloz/"><img src="assets/autocenter-veloz.png" alt="Tela inicial do Veloz Track"></a>
       <h3>Veloz Track · Auto Center Veloz</h3>
       <p>Web app para oficina mecânica: o cliente acompanha o conserto pelo celular, vê as fotos das peças e aprova cada item do orçamento com um toque. A oficina atualiza o status por um painel, sem precisar ligar para ninguém.</p>
       <p>
@@ -41,10 +40,10 @@ Busco minha primeira oportunidade em **desenvolvimento de sistemas** (estágio o
         <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
       </p>
-      <p><a href="https://rennanjkw2019-coder.github.io/autocenter-veloz/"><b>Ver demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/rennanjkw2019-coder/autocenter-veloz">Código</a></p>
+      <p><a href="https://rennanjackowski.github.io/autocenter-veloz/"><b>Ver demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/rennanjackowski/autocenter-veloz">Código</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://rennanjkw2019-coder.github.io/desafio-mercearia-seu-ze/"><img src="assets/mercearia-seu-ze.png" alt="Página da Mercearia do Seu Zé"></a>
+      <a href="https://rennanjackowski.github.io/desafio-mercearia-seu-ze/"><img src="assets/mercearia-seu-ze.png" alt="Página da Mercearia do Seu Zé"></a>
       <h3>Mercearia do Seu Zé</h3>
       <p>Landing page para uma mercearia tradicional do Centro de Curitiba, pensada para ser encontrada no Google: HTML5 semântico, dados estruturados schema.org e layout mobile first. Feito em dupla com <a href="https://github.com/paulogeandre">@paulogeandre</a>.</p>
       <p>
@@ -52,7 +51,7 @@ Busco minha primeira oportunidade em **desenvolvimento de sistemas** (estágio o
         <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS">
         <img src="https://img.shields.io/badge/SEO%20local-schema.org-4285F4?style=flat-square" alt="SEO local com schema.org">
       </p>
-      <p><a href="https://rennanjkw2019-coder.github.io/desafio-mercearia-seu-ze/"><b>Ver site</b></a> &nbsp;·&nbsp; <a href="https://github.com/rennanjkw2019-coder/desafio-mercearia-seu-ze">Código</a></p>
+      <p><a href="https://rennanjackowski.github.io/desafio-mercearia-seu-ze/"><b>Ver site</b></a> &nbsp;·&nbsp; <a href="https://github.com/rennanjackowski/desafio-mercearia-seu-ze">Código</a></p>
     </td>
   </tr>
 </table>
@@ -60,7 +59,7 @@ Busco minha primeira oportunidade em **desenvolvimento de sistemas** (estágio o
 ## Outros projetos
 
 - **Painel de relatório semanal** · JavaScript  
-  Ferramenta interna que reúne em planilha os tickets tratados na semana, com filtros, e gera um relatório em PDF padronizado entregue aos gestores toda sexta-feira. Desenvolvida com apoio de IA (Claude Code). *Código não público, de uso interno.*
+  Ferramenta interna que reúne em planilha os tickets tratados na semana, com filtros, e gera um relatório em PDF padronizado entregue aos gestores toda sexta-feira. *Código não público, de uso interno.*
 - **Automação de controle de gastos** · n8n, WhatsApp e Google Sheets  
   O usuário envia o gasto pelo WhatsApp, em texto, áudio ou imagem, e o fluxo registra os dados e a forma de pagamento (cartão, dinheiro ou Pix) em uma planilha, com confirmação por e-mail. *Projeto acadêmico.*
 
