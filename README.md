@@ -75,4 +75,4 @@ Busco minha primeira oportunidade em **desenvolvimento de sistemas** para unir o
 
 ## Contato
 
-Estou aberto a conversar sobre oportunidades de estágio e vagas júnior em desenvolvimento. O melhor caminho é o e-mail **[rennanjkw2019@gmail.com](mailto:rennanjkw2019@gmail.com)**.
+Estou aberto a conversar sobre oportunidades em desenvolvimento. O melhor caminho é o e-mail **[rennanjkw2019@gmail.com](mailto:rennanjkw2019@gmail.com)**.
