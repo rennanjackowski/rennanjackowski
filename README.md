@@ -12,7 +12,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na Universidade Positivo (conclusão prevista para 2027) e trabalho como assistente de contratos na área de monitoramento eletrônico. No dia a dia lido com sistemas de chamados, consulta de equipamentos e controles em planilhas, e é dessa rotina que vêm muitas das ideias que transformo em código: ferramentas que economizam tempo e deixam processos mais claros.
 
-Busco minha primeira oportunidade em **desenvolvimento de sistemas** (estágio ou júnior) para unir o que aprendo no curso à visão de quem conhece a operação por dentro.
+Busco minha primeira oportunidade em **desenvolvimento de sistemas** para unir o que aprendo no curso à visão de quem conhece a operação por dentro.
 
 - Desenvolvo projetos web com **HTML, CSS e JavaScript**, publicados no GitHub Pages
 - Crio fluxos de automação com **n8n**, integrando WhatsApp, Google Sheets e e-mail
