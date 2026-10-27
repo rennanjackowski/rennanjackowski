@@ -16,7 +16,6 @@ Busco minha primeira oportunidade em **desenvolvimento de sistemas** para unir o
 
 - Desenvolvo projetos web com **HTML, CSS e JavaScript**, publicados no GitHub Pages
 - Crio fluxos de automação com **n8n**, integrando WhatsApp, Google Sheets e e-mail
-- Desenvolvo Cheats (scripts) para jogos durante tempo ócio
 - Estudando agora: **SQL (MySQL)**, **linguagem C** e **Git/GitHub**
 - Trabalho em conjunto com assistente de IA Claude
 
