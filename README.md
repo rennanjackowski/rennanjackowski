@@ -18,13 +18,13 @@
 
 ## Sobre mim
 
-Minha área é **Análise e Desenvolvimento de Sistemas** (Universidade Positivo) e trabalho na área de monitoramento eletrônico. No dia a dia lido com sistemas de chamados, consulta de equipamentos e controles em planilhas, e é dessa rotina que vêm as ferramentas que construo: soluções que economizam tempo e deixam processos mais claros.
+Minha área é **Análise e Desenvolvimento de Sistemas** (Universidade Positivo) e trabalho na área de monitoramento eletrônico. No dia a dia lido com sistemas de chamados, consulta de equipamentos, controles em planilhas e tratativas de solicitações junto a órgãos do Estado e gestores, e é dessa rotina que vêm as ferramentas que construo: soluções que economizam tempo e deixam processos mais claros.
 
 Desenvolvo com a visão de quem conhece a operação por dentro: entendo o problema de quem usa o sistema antes de escrever a primeira linha de código.
 
 - Construo aplicações web com **HTML, CSS e JavaScript**, publicadas e funcionando no GitHub Pages
 - Crio fluxos de automação com **n8n**, integrando WhatsApp, Google Sheets e e-mail
-- Desenvolvi uma ferramenta interna que gera o relatório semanal entregue aos gestores da minha equipe
+- Desenvolvi a automação que registra minhas tratativas e gera o relatório semanal entregue aos gestores
 - Versiono meus projetos com **Git e GitHub** e trabalho em equipe em repositórios compartilhados
 - Uso o assistente de IA Claude como apoio no desenvolvimento
 
@@ -55,15 +55,15 @@ Desenvolvo com a visão de quem conhece a operação por dentro: entendo o probl
       <p><a href="https://paulogeandre.github.io/T-pronto/"><b>Ver demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/paulogeandre/T-pronto">Código</a></p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://rennanjackowski.github.io/autocenter-veloz/"><img src="assets/autocenter-veloz.png" alt="Tela inicial do Veloz Track"></a>
-      <h3>Veloz Track · Auto Center Veloz</h3>
-      <p>Web app para oficina mecânica: o cliente acompanha o conserto pelo celular, vê as fotos das peças e aprova cada item do orçamento com um toque. A oficina atualiza o status por um painel, sem precisar ligar para ninguém.</p>
+      <a href="https://github.com/rennanjackowski/painel-atividades-zendesk"><img src="assets/painel-zendesk.png" alt="Painel de atividades aberto sobre a tela de atendimento"></a>
+      <h3>Painel de Atividades para Zendesk</h3>
+      <p>Automação que uso no trabalho: um favorito do Chrome que acompanha os tickets que eu trato, registra cada tratativa em planilha e gera o relatório semanal em PDF entregue aos gestores. Sem instalação, sem servidor e sem bibliotecas externas. <i>Versão pública, sem dados da empresa.</i></p>
       <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/API%20REST-Zendesk-03363D?style=flat-square&logo=zendesk&logoColor=white" alt="API REST do Zendesk">
+        <img src="https://img.shields.io/badge/PDF-sem%20biblioteca-B30B00?style=flat-square" alt="PDF gerado sem biblioteca">
       </p>
-      <p><a href="https://rennanjackowski.github.io/autocenter-veloz/"><b>Ver demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/rennanjackowski/autocenter-veloz">Código</a></p>
+      <p><a href="https://github.com/rennanjackowski/painel-atividades-zendesk"><b>Código</b></a></p>
     </td>
     <td width="33%" valign="top">
       <a href="https://rennanjackowski.github.io/Web-na-pratica/"><img src="assets/web-na-pratica.png" alt="Página inicial do Web na Prática"></a>
@@ -85,8 +85,8 @@ Desenvolvo com a visão de quem conhece a operação por dentro: entendo o probl
   Landing page para uma mercearia do Centro de Curitiba, com HTML5 semântico, dados estruturados schema.org e layout mobile first. Feito em dupla com [@paulogeandre](https://github.com/paulogeandre). [Código](https://github.com/rennanjackowski/desafio-mercearia-seu-ze)
 - **[Organiza Aí](https://github.com/rennanjackowski/Grupo-8)** · Git e GitHub em equipe  
   Proposta de organizador de tarefas, provas e trabalhos, construída por cinco pessoas no mesmo repositório, com colaboração pelo GitHub.
-- **[Painel de Atividades para Zendesk](https://github.com/rennanjackowski/painel-atividades-zendesk)** · JavaScript  
-  Favorito do Chrome que uso no trabalho: registra em planilha os tickets tratados na semana e gera o relatório em PDF entregue aos gestores toda sexta-feira. *Versão pública, sem dados da empresa.*
+- **[Veloz Track · Auto Center Veloz](https://rennanjackowski.github.io/autocenter-veloz/)** · HTML, CSS e JavaScript  
+  Web app para oficina mecânica: o cliente acompanha o conserto pelo celular e aprova cada item do orçamento. [Código](https://github.com/rennanjackowski/autocenter-veloz)
 - **Automação de controle de gastos** · n8n, WhatsApp e Google Sheets  
   O usuário envia o gasto pelo WhatsApp, em texto, áudio ou imagem, e o fluxo registra os dados e a forma de pagamento (cartão, dinheiro ou Pix) em uma planilha, com confirmação por e-mail. *Projeto acadêmico.*
 
