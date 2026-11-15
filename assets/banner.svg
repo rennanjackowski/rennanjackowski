@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-labelledby="title desc">
   <title id="title">Rennan Jackowski</title>
-  <desc id="desc">Estudante de Análise e Desenvolvimento de Sistemas. Front-end, JavaScript e automação com n8n. Curitiba, PR.</desc>
+  <desc id="desc">Análise e Desenvolvimento de Sistemas. Front-end, JavaScript e automação com n8n. Curitiba, PR.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0a1020"/>
@@ -47,7 +47,7 @@
   <g class="sans">
     <text x="64" y="92" font-size="14" font-weight="600" letter-spacing="4" fill="#58a6ff">OLÁ, EU SOU</text>
     <text x="62" y="156" font-size="54" font-weight="700" fill="url(#name)">Rennan Jackowski</text>
-    <text x="64" y="200" font-size="21" fill="#c9d1d9">Estudante de Análise e Desenvolvimento de Sistemas</text>
+    <text x="64" y="200" font-size="21" fill="#c9d1d9">Análise e Desenvolvimento de Sistemas</text>
     <text x="64" y="232" font-size="17" fill="#8b949e">Front-end  ·  JavaScript  ·  Automação com n8n</text>
 
     <g font-size="13" font-weight="600">
@@ -74,10 +74,10 @@
 
     <text class="mono" xml:space="preserve">
       <tspan x="688" y="122"><tspan class="kw">const</tspan><tspan class="var"> rennan</tspan><tspan class="pun"> = {</tspan></tspan>
-      <tspan x="688" y="148"><tspan class="prop">  curso</tspan><tspan class="pun">: </tspan><tspan class="str">"ADS · Universidade Positivo"</tspan><tspan class="pun">,</tspan></tspan>
+      <tspan x="688" y="148"><tspan class="prop">  area</tspan><tspan class="pun">: </tspan><tspan class="str">"ADS · Universidade Positivo"</tspan><tspan class="pun">,</tspan></tspan>
       <tspan x="688" y="174"><tspan class="prop">  foco</tspan><tspan class="pun">: [</tspan><tspan class="str">"front-end"</tspan><tspan class="pun">, </tspan><tspan class="str">"automação"</tspan><tspan class="pun">],</tspan></tspan>
-      <tspan x="688" y="200"><tspan class="prop">  estudando</tspan><tspan class="pun">: [</tspan><tspan class="str">"SQL"</tspan><tspan class="pun">, </tspan><tspan class="str">"C"</tspan><tspan class="pun">, </tspan><tspan class="str">"Git"</tspan><tspan class="pun">],</tspan></tspan>
-      <tspan x="688" y="226"><tspan class="prop">  buscando</tspan><tspan class="pun">: </tspan><tspan class="str">"estágio ou júnior"</tspan></tspan>
+      <tspan x="688" y="200"><tspan class="prop">  stack</tspan><tspan class="pun">: [</tspan><tspan class="str">"HTML"</tspan><tspan class="pun">, </tspan><tspan class="str">"CSS"</tspan><tspan class="pun">, </tspan><tspan class="str">"JS"</tspan><tspan class="pun">, </tspan><tspan class="str">"n8n"</tspan><tspan class="pun">],</tspan></tspan>
+      <tspan x="688" y="226"><tspan class="prop">  constroi</tspan><tspan class="pun">: </tspan><tspan class="str">"web apps e automações"</tspan></tspan>
       <tspan x="688" y="252"><tspan class="pun">};</tspan></tspan>
     </text>
     <rect class="cursor" x="710" y="238" width="9" height="18" rx="1.5" fill="#58a6ff"/>
