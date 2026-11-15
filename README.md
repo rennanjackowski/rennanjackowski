@@ -43,6 +43,18 @@ Desenvolvo com a visão de quem conhece a operação por dentro: entendo o probl
 <table>
   <tr>
     <td width="33%" valign="top">
+      <a href="https://paulogeandre.github.io/T-pronto/"><img src="assets/tapronto.png" alt="Painel de pedidos do TáPronto"></a>
+      <h3>TáPronto · Gestão para dark kitchens</h3>
+      <p>Painel que reúne pedidos de iFood, Rappi e 99Food em uma tela, cronometra cada etapa e desconta os ingredientes do estoque. Fui responsável pelas regras de negócio: lógica dos pedidos, cronômetros, estoque, testes automatizados e publicação. Feito em equipe com <a href="https://github.com/paulogeandre">@paulogeandre</a> e Fellipe Augusto.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+        <img src="https://img.shields.io/badge/Testes-Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Testes com Node.js">
+      </p>
+      <p><a href="https://paulogeandre.github.io/T-pronto/"><b>Ver demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/paulogeandre/T-pronto">Código</a></p>
+    </td>
+    <td width="33%" valign="top">
       <a href="https://rennanjackowski.github.io/autocenter-veloz/"><img src="assets/autocenter-veloz.png" alt="Tela inicial do Veloz Track"></a>
       <h3>Veloz Track · Auto Center Veloz</h3>
       <p>Web app para oficina mecânica: o cliente acompanha o conserto pelo celular, vê as fotos das peças e aprova cada item do orçamento com um toque. A oficina atualiza o status por um painel, sem precisar ligar para ninguém.</p>
@@ -52,17 +64,6 @@ Desenvolvo com a visão de quem conhece a operação por dentro: entendo o probl
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
       </p>
       <p><a href="https://rennanjackowski.github.io/autocenter-veloz/"><b>Ver demo</b></a> &nbsp;·&nbsp; <a href="https://github.com/rennanjackowski/autocenter-veloz">Código</a></p>
-    </td>
-    <td width="33%" valign="top">
-      <a href="https://rennanjackowski.github.io/desafio-mercearia-seu-ze/"><img src="assets/mercearia-seu-ze.png" alt="Página da Mercearia do Seu Zé"></a>
-      <h3>Mercearia do Seu Zé</h3>
-      <p>Landing page para uma mercearia tradicional do Centro de Curitiba, pensada para ser encontrada no Google: HTML5 semântico, dados estruturados schema.org e layout mobile first. Feito em dupla com <a href="https://github.com/paulogeandre">@paulogeandre</a>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS">
-        <img src="https://img.shields.io/badge/SEO%20local-schema.org-4285F4?style=flat-square" alt="SEO local com schema.org">
-      </p>
-      <p><a href="https://rennanjackowski.github.io/desafio-mercearia-seu-ze/"><b>Ver site</b></a> &nbsp;·&nbsp; <a href="https://github.com/rennanjackowski/desafio-mercearia-seu-ze">Código</a></p>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/rennanjackowski/Web-na-pratica"><img src="assets/web-na-pratica.png" alt="Página inicial do Web na Prática"></a>
@@ -80,6 +81,8 @@ Desenvolvo com a visão de quem conhece a operação por dentro: entendo o probl
 
 ## Outros projetos
 
+- **[Mercearia do Seu Zé](https://rennanjackowski.github.io/desafio-mercearia-seu-ze/)** · HTML5, CSS e SEO local  
+  Landing page para uma mercearia do Centro de Curitiba, com HTML5 semântico, dados estruturados schema.org e layout mobile first. Feito em dupla com [@paulogeandre](https://github.com/paulogeandre). [Código](https://github.com/rennanjackowski/desafio-mercearia-seu-ze)
 - **[Organiza Aí](https://github.com/rennanjackowski/Grupo-8)** · Git e GitHub em equipe  
   Proposta de organizador de tarefas, provas e trabalhos, construída por cinco pessoas no mesmo repositório, com colaboração pelo GitHub.
 - **Painel de relatório semanal** · JavaScript  
